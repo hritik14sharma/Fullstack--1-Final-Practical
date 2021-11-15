@@ -24,15 +24,15 @@ header ul li a{
 .logo{
     font-size:27px;
     font-weight: bold;
-    color:purple;
+    color: black;
 }
 .btn{
     border-radius: 20px;
     font-size: 20px;
     padding: 8px;
-    color:pink;
-    border: 2px solid black;
-    background-image: linear-gradient(to right,red ,blue ,violet);
+    color:red;
+    border: 2px solid red;
+
 }
 #bar{
     color:steelblue;
@@ -54,8 +54,9 @@ header ul li a{
     margin: 20px;
     padding: 10px;
     border: 2px solid black;
-    background-image: linear-gradient(to right,pink,rgb(211, 65, 89),rgb(230, 77, 103));
-}
+    background-color: rgb(212, 31, 106);
+    /* background-image: linear-gradient(to left,rgb(212, 31, 106));
+} */
 .image{
     display: flex;
     align-self: center;
